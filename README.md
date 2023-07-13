@@ -7,7 +7,6 @@
 
    [Tech Stack](#-tech-stack-)<br>
    [프로젝트 설계](#-프로젝트-설계-)<br>
-   [팀원 소개](#-팀원-소개-)<br>
    [웹페이지 기능 소개](#-웹페이지-기능-소개-)
 </div>
 
@@ -121,34 +120,16 @@
 
 <br><br><br><br>
 
-<div align=center> 
-  <h2>✨ 팀원 소개 ✨</h2> 
-</div>
-
-🦔 [고은영](#-고은영) : 로그인, 회원가입, id/pw찾기<br>
-🐷 [김다빈](#-김다빈-) : 메인/이벤트페이지, 검색, 프런트디자인<br>
-🍎 [전현정](#-전현정) : 상품페이지, 결제<br>
-💣 [김승헌](#-김승헌) : 게시판, 구글 로그인<br>
-🐼 [윤재범](#-윤재범) : 마이페이지 <br>
-🕵🏽‍♂️ [최정원](#-최정원) : 관리자페이지
 
 
-
-<br><br><br><br>
 
 <div align=center> 
   <h2>💫 웹페이지 기능 소개 💫</h2>  
+   <h6> ~ 메인/이벤트페이지, 검색, 프런트 디자인 ~ </h6>
 </div>
 <br><br>
 
-<div align=center>
-<h2>🦔 고은영</h2>
 
-</div>
-
-<div align=center>
-<h2>🐷 김다빈 </h2> 
-</div>
 <div>
 <h3>메인페이지</h3>
 <b>1.쿠키를 사용한 '오늘하루안보기'</b><br>
@@ -227,41 +208,6 @@
 &nbsp;&nbsp;2. 현재 페이지의 URL에서 쿼리 매개변수 값을 추출하여 그 값이 null이 아니라면 해당 상품을 검색하는 AJAX를 실행하여 결과를 가져온다.<br>
 &nbsp;&nbsp;3. 검색 결과가 없거나 아무것도 입력하지 않았다면 검색 결과 없음을 나타낸다.    
 
-<br><br><br><br>
-
-<div align=center>
-<h2>🍎 전현정</h2>
-</div>
-
-<div align=center>
-<h2>💣 김승헌</h2>
-
-</div>
-
-<div align=center>
-<h2>🐼 윤재범</h2>
-
-</div>
-
-<div align=center>
-<h2>🕵🏾 최정원</h2>
-
-</div>
-
-
-
-
-
-이미지 넣는 법 
-https://cutemoomin.tistory.com/entry/Readme-%ED%8C%8C%EC%9D%BC%EC%97%90-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%84%A3%EA%B8%B0-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EC%9D%B4%EB%AF%B8%EC%A7%80
-
-
-이미지 블러 처리 
-https://ezgif.com/
-effect -> censor
-
-리드미꾸미기
-https://yermi.tistory.com/entry/%EA%BF%80%ED%8C%81-Github-Readme-%EC%98%88%EC%81%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0-Readme-Header-Badge-Widget-%EB%93%B1
 
 
 

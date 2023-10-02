@@ -1,6 +1,3 @@
-<div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=read_me!&fontSize=50" />
-</div>
 
 <div align=center>
    <h2>🌟 목차 🌟</h2>
@@ -11,7 +8,7 @@
 </div>
 
 
-<br><br><br><br>
+<br><br><br>
 
 
 
@@ -125,7 +122,7 @@
 
 <div align=center> 
   <h2>💫 웹페이지 기능 소개 💫</h2>  
-   <h6> ~ 메인/이벤트페이지, 검색, 프런트 디자인 ~ </h6>
+   <h6> ~ 담당: UI디자인, 메인페이지, 이벤트페이지, 검색 ~ </h6>
 </div>
 <br><br>
 
